@@ -3,10 +3,7 @@
 Public app-store, pricing and search data, a real speed-dating dataset and a simulated dating-app event log, turned into growth
 hypotheses, rigorous A/B tests and a Tableau dashboard.
 
-**Report (8 pages):** [`docs/appflame_Hily_Taimi_growth_case_study.pdf`](docs/appflame_Hily_Taimi_growth_case_study.pdf) ·
-**Tableau workbook:** [`tableau/AppH_Product_Analytics.twbx`](tableau/AppH_Product_Analytics.twbx) (4 dashboards, opens in the free Tableau Public app; build guide: [`docs/TABLEAU_BUILD.md`](docs/TABLEAU_BUILD.md)) ·
-**HTML fallback dashboard:** [`docs/dashboard.html`](docs/dashboard.html) (same 4 views, one offline file) ·
-**Notebook:** [`notebooks/appflame_analysis.ipynb`](notebooks/appflame_analysis.ipynb)
+**[PDF](docs/appflame_Hily_Taimi_growth_case_study.pdf)** · **[Dashboard](tableau/AppH_Product_Analytics.twbx)**
 
 > Independent case study based on public data · not affiliated with or endorsed by appflame.
 > Every figure is labelled **PUBLIC DATA** (sourced and dated) or **SIMULATED** (a fictional app, "App H", never presented as appflame, Hily or Taimi data).
