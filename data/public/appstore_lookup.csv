@@ -1,0 +1,44 @@
+app,focus,country,track_id,track_name,seller,genre,avg_rating,rating_count,current_version,current_version_date,first_release_date,content_rating,size_mb,collected
+Hily,True,us,1250946975,Hily Dating App: Meet. Date.,Hily Corp.,Lifestyle,4.41073,391836,6.95.1,2026-11-12,2017-08-14,17+,159.9,2026-11-15
+Taimi,True,us,1282966364,Taimi LGBTQ+ Dating & Chat App,Social Impact Inc.,Social Networking,4.41924,217902,5.1.426,2026-11-10,2017-09-18,17+,217.5,2026-11-15
+Tinder,False,us,547702041,Tinder Dating App: Date & Chat,Tinder LLC,Lifestyle,4.20037,1759872,17.43.0,2026-11-11,2012-08-03,17+,475.5,2026-11-15
+Bumble,False,us,930441707,Bumble Dating App: Meet & Date,Bumble Holding Limited,Lifestyle,4.3168,1772309,5.487.1,2026-11-09,2014-11-19,17+,339.8,2026-11-15
+Hinge,False,us,595287172,Hinge Dating App: Match & Date,"Hinge, Inc.",Lifestyle,4.40482,1141688,10.12.2,2026-11-13,2013-02-06,17+,361.7,2026-11-15
+Grindr,False,us,319881193,Grindr - Gay Dating & Chat,Grindr LLC,Social Networking,4.44951,390084,26.25.0,2026-11-12,2009-06-25,17+,600.7,2026-11-15
+OkCupid,False,us,338701294,OkCupid Dating: Date Singles,"Match Group Americas, LLC",Lifestyle,4.31867,289884,117.0.0,2026-10-21,2009-11-25,17+,171.8,2026-11-15
+Match,False,us,305939712,Match Dating App: Chat & Meet,"Match Group Americas, LLC",Social Networking,3.86477,245573,26.19.00,2026-11-03,2009-03-27,17+,239.4,2026-11-15
+Plenty of Fish,False,us,389638243,Plenty of Fish : Dating App,Plentyoffish Media Inc.,Social Networking,4.28624,1809706,29.30,2026-11-03,2010-09-17,17+,129.1,2026-11-15
+Badoo,False,us,351331194,Badoo Dating: Meet New People,Badoo Software Ltd,Lifestyle,4.57737,150275,5.487.0,2026-11-09,2022-01-19,17+,246.4,2026-11-15
+HER,False,us,573328837,HER:Lesbian&Queer LGBTQ Dating,Bloomer Inc,Lifestyle,4.41641,66255,6.30.0,2026-11-10,2012-11-24,17+,90.5,2026-11-15
+Hily,True,gb,1250946975,Hily Dating App: Meet. Date.,Hily Corp.,Lifestyle,4.33,21751,6.95.1,2026-11-12,2017-08-17,17+,159.9,2026-11-15
+Taimi,True,gb,1282966364,Taimi LGBTQ+ Dating & Chat App,Social Impact Inc.,Social Networking,4.2313,10272,5.1.426,2026-11-10,2017-09-18,17+,217.5,2026-11-15
+Tinder,False,gb,547702041,Tinder Dating App: Meet & Date,Tinder LLC,Lifestyle,4.18763,275866,17.43.0,2026-11-11,2012-08-03,17+,475.5,2026-11-15
+Bumble,False,gb,930441707,Bumble Dating app: Chat & Date,Bumble Holding Limited,Lifestyle,4.20669,276846,5.487.1,2026-11-09,2014-11-19,17+,339.8,2026-11-15
+Hinge,False,gb,595287172,Hinge Dating App: Meet & Date,"Hinge, Inc.",Lifestyle,4.34023,199333,10.12.2,2026-11-13,2013-02-06,17+,361.7,2026-11-15
+Grindr,False,gb,319881193,Grindr - Gay Dating & Chat,Grindr LLC,Social Networking,4.28127,56365,26.25.0,2026-11-12,2009-06-25,17+,600.7,2026-11-15
+OkCupid,False,gb,338701294,OkCupid: Online Dating App,"Match Group Americas, LLC",Lifestyle,4.20105,16926,117.0.0,2026-10-21,2009-11-25,17+,171.8,2026-11-15
+Plenty of Fish,False,gb,389638243,Plenty of Fish Dating,Plentyoffish Media Inc.,Social Networking,4.09108,274691,29.30,2026-11-03,2010-09-17,17+,129.1,2026-11-15
+Badoo,False,gb,351331194,Badoo: Dating app & Friends,Badoo Software Ltd,Lifestyle,4.45407,40740,5.487.0,2026-11-09,2022-01-19,17+,246.4,2026-11-15
+HER,False,gb,573328837,HER: Lesbian LGBTQ Dating,Bloomer Inc,Lifestyle,4.28536,6781,6.30.0,2026-11-10,2012-11-17,17+,90.5,2026-11-15
+Hily,True,ca,1250946975,Hily Dating App: Meet. Date.,Hily Corp.,Lifestyle,4.27694,22687,6.95.1,2026-11-12,2018-09-24,17+,159.9,2026-11-15
+Taimi,True,ca,1282966364,Taimi LGBTQ+ Dating & Chat App,Social Impact Inc.,Social Networking,4.20716,9157,5.1.426,2026-11-10,2018-09-25,17+,217.5,2026-11-15
+Tinder,False,ca,547702041,Tinder Dating App: Date & Chat,Tinder LLC,Lifestyle,4.07347,216423,17.43.0,2026-11-11,2012-08-03,17+,475.5,2026-11-15
+Bumble,False,ca,930441707,Bumble: Dating & Meet People,Bumble Holding Limited,Lifestyle,4.18404,224454,5.487.1,2026-11-09,2014-12-03,17+,339.8,2026-11-15
+Hinge,False,ca,595287172,Hinge Dating App: Match & Date,"Hinge, Inc.",Lifestyle,4.22368,104974,10.12.2,2026-11-13,2013-02-06,17+,361.7,2026-11-15
+Grindr,False,ca,319881193,Grindr - Gay Dating & Chat,Grindr LLC,Social Networking,4.31121,38172,26.25.0,2026-11-12,2009-06-25,17+,600.7,2026-11-15
+OkCupid,False,ca,338701294,OkCupid: Online Dating App,"Match Group Americas, LLC",Lifestyle,4.14262,16294,117.0.0,2026-10-21,2009-11-25,17+,171.8,2026-11-15
+Match,False,ca,305939712,Match™ - #1 Dating App.,"Match Group Americas, LLC",Social Networking,3.66774,20529,26.19.00,2026-11-03,2009-03-27,17+,239.4,2026-11-15
+Plenty of Fish,False,ca,389638243,Plenty of Fish Dating,Plentyoffish Media Inc.,Social Networking,3.99734,165964,29.30,2026-11-03,2010-09-17,17+,129.1,2026-11-15
+Badoo,False,ca,351331194,Badoo — Dating. Chat. Friends,Badoo Software Ltd,Lifestyle,4.43747,21919,5.487.0,2026-11-09,2022-01-19,17+,246.4,2026-11-15
+HER,False,ca,573328837,HER:Lesbian&Queer LGBTQ Dating,Bloomer Inc,Lifestyle,4.17716,4877,6.30.0,2026-11-10,2012-11-24,17+,90.5,2026-11-15
+Hily,True,au,1250946975,Hily Dating App: Meet. Date.,Hily Corp.,Lifestyle,4.27285,10412,6.95.1,2026-11-12,2019-03-16,17+,159.9,2026-11-15
+Taimi,True,au,1282966364,Taimi LGBTQ+ Dating & Chat App,Social Impact Inc.,Social Networking,4.22485,4892,5.1.426,2026-11-10,2018-10-05,17+,217.5,2026-11-15
+Tinder,False,au,547702041,Tinder Dating App: Date & Chat,Tinder LLC,Lifestyle,4.06619,126851,17.43.0,2026-11-11,2012-08-03,17+,475.5,2026-11-15
+Bumble,False,au,930441707,Bumble Dating app: Chat & Date,Bumble Holding Limited,Lifestyle,4.2324,147851,5.487.1,2026-11-09,2014-12-03,17+,339.8,2026-11-15
+Hinge,False,au,595287172,Hinge Dating App: Date & Meet,"Hinge, Inc.",Lifestyle,4.30192,69724,10.12.2,2026-11-13,2013-02-06,17+,361.7,2026-11-15
+Grindr,False,au,319881193,Grindr - Gay Dating & Chat,Grindr LLC,Social Networking,4.23627,23503,26.25.0,2026-11-12,2009-06-25,17+,600.7,2026-11-15
+OkCupid,False,au,338701294,OkCupid: Online Dating App,"Match Group Americas, LLC",Lifestyle,4.25112,6491,117.0.0,2026-10-21,2009-11-25,17+,171.8,2026-11-15
+Match,False,au,305939712,Match™- Meet Plenty of Singles,"Match Group Americas, LLC",Social Networking,3.15018,566,26.19.00,2026-11-03,2014-11-06,17+,239.4,2026-11-15
+Plenty of Fish,False,au,389638243,Plenty of Fish Dating,Plentyoffish Media Inc.,Social Networking,4.08104,121074,29.30,2026-11-03,2010-09-17,17+,129.1,2026-11-15
+Badoo,False,au,351331194,Badoo — Dating. Chat. Friends,Badoo Software Ltd,Lifestyle,4.43971,5374,5.487.0,2026-11-09,2022-01-19,17+,246.4,2026-11-15
+HER,False,au,573328837,HER: Lesbian LGBTQ Dating,Bloomer Inc,Lifestyle,4.29682,3086,6.30.0,2026-11-10,2012-11-24,17+,90.5,2026-11-15

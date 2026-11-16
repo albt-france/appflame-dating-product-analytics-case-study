@@ -1,0 +1,12 @@
+entity,fact,value,source_url,seen_on,note
+appflame,Description,"Ukrainian product IT company that creates Taimi, Hily, AdConnect and Mailkeeper",https://appflame.com/,2026-11-15,as stated by appflame
+appflame,Company age,8 years,https://appflame.com/,2026-11-15,as stated by appflame (website figure used; the job post says 7 years)
+appflame,Team size,550+ specialists worldwide,https://appflame.com/,2026-11-15,as stated by appflame (website figure used; the job post says 500+)
+appflame,Products,"Hily (dating), Taimi (inclusive LGBTQ+ dating), AdConnect (performance marketing), Mailkeeper (retention SaaS: email, push, PWA)",https://appflame.com/,2026-11-15,as stated by appflame
+appflame,Stated goals,"Reach the top 5 product companies in the world; become a unicorn",https://appflame.com/,2026-11-15,as stated by appflame
+appflame,Market position,"Hily and Taimi in the top 5 dating apps in the U.S.; 70M+ users",https://www.linkedin.com/jobs/view/4490372369/,2026-11-15,as stated by appflame in the Product Analyst job post
+Hily,Name origin,"Hily comes from 'Hey, I Like You!'",https://hily.com/,2026-11-15,as stated by Hily
+Hily,Likes sent,11.9B+,https://hily.com/,2026-11-15,as stated by Hily
+Hily,Downloads,44M+ globally,https://hily.com/,2026-11-15,as stated by Hily
+Hily,Mutual matches,58M+ annually,https://hily.com/,2026-11-15,as stated by Hily
+Taimi,Website,taimi.com refuses automated requests (HTTP 403); not collected,https://taimi.com/,2026-11-15,App Store data used instead

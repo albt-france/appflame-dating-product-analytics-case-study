@@ -1,0 +1,44 @@
+app,focus,country,avg_rating,rating_count,current_version_date,seller
+Hily,True,us,4.41073,391836,2026-11-12,Hily Corp.
+Taimi,True,us,4.41924,217902,2026-11-10,Social Impact Inc.
+Tinder,False,us,4.20037,1759872,2026-11-11,Tinder LLC
+Bumble,False,us,4.3168,1772309,2026-11-09,Bumble Holding Limited
+Hinge,False,us,4.40482,1141688,2026-11-13,"Hinge, Inc."
+Grindr,False,us,4.44951,390084,2026-11-12,Grindr LLC
+OkCupid,False,us,4.31867,289884,2026-10-21,"Match Group Americas, LLC"
+Match,False,us,3.86477,245573,2026-11-03,"Match Group Americas, LLC"
+Plenty of Fish,False,us,4.28624,1809706,2026-11-03,Plentyoffish Media Inc.
+Badoo,False,us,4.57737,150275,2026-11-09,Badoo Software Ltd
+HER,False,us,4.41641,66255,2026-11-10,Bloomer Inc
+Hily,True,gb,4.33,21751,2026-11-12,Hily Corp.
+Taimi,True,gb,4.2313,10272,2026-11-10,Social Impact Inc.
+Tinder,False,gb,4.18763,275866,2026-11-11,Tinder LLC
+Bumble,False,gb,4.20669,276846,2026-11-09,Bumble Holding Limited
+Hinge,False,gb,4.34023,199333,2026-11-13,"Hinge, Inc."
+Grindr,False,gb,4.28127,56365,2026-11-12,Grindr LLC
+OkCupid,False,gb,4.20105,16926,2026-10-21,"Match Group Americas, LLC"
+Plenty of Fish,False,gb,4.09108,274691,2026-11-03,Plentyoffish Media Inc.
+Badoo,False,gb,4.45407,40740,2026-11-09,Badoo Software Ltd
+HER,False,gb,4.28536,6781,2026-11-10,Bloomer Inc
+Hily,True,ca,4.27694,22687,2026-11-12,Hily Corp.
+Taimi,True,ca,4.20716,9157,2026-11-10,Social Impact Inc.
+Tinder,False,ca,4.07347,216423,2026-11-11,Tinder LLC
+Bumble,False,ca,4.18404,224454,2026-11-09,Bumble Holding Limited
+Hinge,False,ca,4.22368,104974,2026-11-13,"Hinge, Inc."
+Grindr,False,ca,4.31121,38172,2026-11-12,Grindr LLC
+OkCupid,False,ca,4.14262,16294,2026-10-21,"Match Group Americas, LLC"
+Match,False,ca,3.66774,20529,2026-11-03,"Match Group Americas, LLC"
+Plenty of Fish,False,ca,3.99734,165964,2026-11-03,Plentyoffish Media Inc.
+Badoo,False,ca,4.43747,21919,2026-11-09,Badoo Software Ltd
+HER,False,ca,4.17716,4877,2026-11-10,Bloomer Inc
+Hily,True,au,4.27285,10412,2026-11-12,Hily Corp.
+Taimi,True,au,4.22485,4892,2026-11-10,Social Impact Inc.
+Tinder,False,au,4.06619,126851,2026-11-11,Tinder LLC
+Bumble,False,au,4.2324,147851,2026-11-09,Bumble Holding Limited
+Hinge,False,au,4.30192,69724,2026-11-13,"Hinge, Inc."
+Grindr,False,au,4.23627,23503,2026-11-12,Grindr LLC
+OkCupid,False,au,4.25112,6491,2026-10-21,"Match Group Americas, LLC"
+Match,False,au,3.15018,566,2026-11-03,"Match Group Americas, LLC"
+Plenty of Fish,False,au,4.08104,121074,2026-11-03,Plentyoffish Media Inc.
+Badoo,False,au,4.43971,5374,2026-11-09,Badoo Software Ltd
+HER,False,au,4.29682,3086,2026-11-10,Bloomer Inc

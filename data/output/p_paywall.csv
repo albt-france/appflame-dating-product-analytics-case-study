@@ -1,0 +1,9 @@
+platform,country,signups,paywall_view_rate,paid_within_30d_rate,paid_per_viewer
+android,AU,8568,0.4949,0.0282,0.0571
+android,CA,9684,0.4798,0.0293,0.0611
+android,GB,15833,0.4819,0.0301,0.0624
+android,US,36258,0.483,0.0367,0.0759
+ios,AU,11190,0.6382,0.0432,0.0676
+ios,CA,11901,0.6361,0.0441,0.0694
+ios,GB,17272,0.6222,0.0436,0.0701
+ios,US,54797,0.6246,0.054,0.0864

@@ -1,0 +1,90 @@
+{
+ "market": {
+  "hily_rating_us": 4.41073,
+  "hily_ratings_us": 391836,
+  "taimi_rating_us": 4.41924,
+  "taimi_ratings_us": 217902,
+  "rank_ratings_hily": 5,
+  "rank_ratings_taimi": 9,
+  "n_peers": 11,
+  "hily_week_us": 14.99,
+  "hily_week_eu_avg_usd": 19.679999999999996,
+  "eu_premium": 0.31287525016677753,
+  "fx_date": "2026-11-13",
+  "collected": "2026-11-15"
+ },
+ "trends": {
+  "hily_us_2026": 4.6521739130434785,
+  "hily_us_2023": 3.207547169811321,
+  "taimi_us_2026": 3.717391304347826,
+  "taimi_us_2023": 2.018867924528302,
+  "grindr_us_2026": 43.06521739130435,
+  "her_us_2026": 21.652173913043477,
+  "note": "Relative search interest (0-100) within one request; 'Taimi' and 'Hily' are also first names."
+ },
+ "reviews": {
+  "n_total": 5176,
+  "n_last12m": 3116,
+  "n_validation": 45,
+  "micro_precision": 0.8333333333333334,
+  "micro_recall": 0.9166666666666666,
+  "hily_price": 0.43451652386780903,
+  "taimi_price": 0.5294117647058824,
+  "hily_fake": 0.189718482252142,
+  "taimi_fake": 0.2640801001251564,
+  "hily_reach": 0.09424724602203183,
+  "taimi_ban": 0.05131414267834793,
+  "hily_ban": 0.05018359853121175,
+  "peers_price": 0.31666666666666665,
+  "peers_fake": 0.148,
+  "hily_avg": 2.6511627906976742,
+  "taimi_avg": 1.6508135168961202,
+  "cadence": {
+   "Bumble": 4.0,
+   "Hily": 5.3,
+   "Hinge": 2.0,
+   "Taimi": 2.7,
+   "Tinder": 3.3
+  }
+ },
+ "speed_dating": {
+  "rows": 8368,
+  "participants": 551,
+  "waves": 21,
+  "pairs": 2918,
+  "yes_rate": 0.4200525812619503,
+  "match_rate": 0.16491395793499045,
+  "independent_match": 0.17644417102482735,
+  "corr_dec": -0.04733093196008152,
+  "top10_share_yes": 0.22759601706970128,
+  "share_zero_yes": 0.039927404718693285,
+  "models": {
+   "profile": {
+    "auc_lr": 0.5980324148328736,
+    "auc_gb": 0.5259058029126837,
+    "n_features": 7
+   },
+   "profile_history": {
+    "auc_lr": 0.7327059408481428,
+    "auc_gb": 0.6726623147494708,
+    "n_features": 11
+   },
+   "after_meeting": {
+    "auc_lr": 0.8434568871495477,
+    "auc_gb": 0.8456638544941297,
+    "n_features": 23
+   }
+  },
+  "top_features": [
+   "picky_loo",
+   "attr_o",
+   "attr",
+   "fun",
+   "shar"
+  ],
+  "match_shared_high": 0.5542168674698795,
+  "match_shared_low": 0.053515215110178385,
+  "match_intcorr_q4": 0.21030042918454936,
+  "match_intcorr_q1": 0.16644474034620507
+ }
+}

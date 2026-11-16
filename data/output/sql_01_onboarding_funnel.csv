@@ -1,0 +1,13 @@
+platform,step,users,share_of_signups,pass_from_previous
+android,1_basic_info,85179,1.0,
+android,2_birthday,78435,0.9208,0.9208
+android,3_interests,76086,0.8932,0.9701
+android,4_photo_upload,71497,0.8394,0.9397
+android,5_bio,47202,0.5542,0.6602
+android,6_location,44881,0.5269,0.9508
+ios,1_basic_info,114821,1.0,
+ios,2_birthday,106894,0.931,0.931
+ios,3_interests,103657,0.9028,0.9697
+ios,4_photo_upload,97497,0.8491,0.9406
+ios,5_bio,86682,0.7549,0.8891
+ios,6_location,82470,0.7182,0.9514

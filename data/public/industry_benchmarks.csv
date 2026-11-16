@@ -1,0 +1,8 @@
+company,metric,period,value,unit,source_url,seen_on,use_in_simulation
+Match Group,Payers,Q3 2026,13.8,million (avg of monthly values),https://ir.mtch.com/investor-relations/overview/default.aspx,2026-11-15,order of magnitude only
+Match Group,Revenue per payer (RPP),Q2 2026,21.13,USD per payer per month,https://ir.mtch.com/investor-relations/news-events/news-events/news-details/2026/Match-Group-Announces-Second-Quarter-Results/default.aspx,2026-11-15,calibrates simulated revenue per payer (USD 15-30 a month)
+Match Group,Payers,Q2 2026,13.3,million,https://ir.mtch.com/investor-relations/news-events/news-events/news-details/2026/Match-Group-Announces-Second-Quarter-Results/default.aspx,2026-11-15,order of magnitude only
+Bumble Inc.,Bumble App paying users,Q3 2026,2.0,million,https://www.sec.gov/Archives/edgar/data/0001830043/000183004326000123/bmbl-20260930.htm,2026-11-15,order of magnitude only
+Bumble Inc.,Bumble App ARPPU,Q3 2026,28.02,USD per paying user per month,https://www.sec.gov/Archives/edgar/data/0001830043/000183004326000123/bmbl-20260930.htm,2026-11-15,upper end of simulated revenue per payer
+Bumble Inc.,Badoo App and Other ARPPU,Q3 2026,11.34,USD per paying user per month,https://www.sec.gov/Archives/edgar/data/0001830043/000183004326000123/bmbl-20260930.htm,2026-11-15,lower end of simulated revenue per payer
+Bumble Inc.,Total revenue,Q3 2026,207.1,USD million,https://www.sec.gov/Archives/edgar/data/0001830043/000183004326000123/bmbl-20260930.htm,2026-11-15,context: paying users -15% y/y

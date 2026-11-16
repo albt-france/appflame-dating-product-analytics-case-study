@@ -1,0 +1,13 @@
+app,item,country,price_local,currency,price_usd,vat_included
+Hily,1-week Hily Premium,AU,24.99,AUD,16.96,False
+Hily,1-week Hily Premium,CA,19.99,CAD,14.02,False
+Hily,1-week Hily Premium,DE,17.49,EUR,19.33,True
+Hily,1-week Hily Premium,FR,17.99,EUR,19.88,True
+Hily,1-week Hily Premium,GB,14.99,GBP,19.83,True
+Hily,1-week Hily Premium,US,14.99,USD,14.99,False
+Taimi,Taimi Gold Subscription,AU,24.99,AUD,16.96,False
+Taimi,Taimi Gold Subscription,CA,22.99,CAD,16.12,False
+Taimi,Taimi Gold Subscription,DE,19.99,EUR,22.09,True
+Taimi,Taimi Gold Subscription,FR,19.99,EUR,22.09,True
+Taimi,Taimi Gold Subscription,GB,17.99,GBP,23.79,True
+Taimi,Taimi Gold Subscription,US,16.99,USD,16.99,False

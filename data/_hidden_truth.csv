@@ -1,0 +1,13 @@
+item,metric,true_effect
+E1_paywall_price,conversion to paid (per paywall view),-13% relative; x1.30 extra for treatment in the first test week (novelty)
+E1_paywall_price,price,+33% on every plan ($14.99 -> $19.99 weekly)
+E1_paywall_price,first renewal,logit -0.15 (slightly fewer renewals); refunds 4.5% vs 3.0%
+E2_onboarding,drop-off per onboarding step,-10% relative (small real gain); Android treatment exposure logged only from step 3 (bug -> SRM)
+E3_smart_picks,"matches, whole-market effect",+4% when every user is treated (tau = 0.04); treated users take a 1.2x share of a pool shared with control
+E4a-e,return within 7 days,no effect in any of the five tests (assignment seed 9 chosen so exactly one is p < 0.05)
+E5_profile_prompt,activation,no effect (assignment seed 7 chosen so an early daily read crosses p < 0.05)
+E6_icebreakers,"messages sent, 1-14 Oct",+5% for treated users
+opportunity,Android photo-upload step,pass rate 0.66 vs 0.89 on iOS
+opportunity,no like received on day 0,day-1 return probability x0.52
+opportunity,push hour 19-21h,open rate ~0.085 vs ~0.05; return probability x1.10
+opportunity,tiktok cohort,"retention x0.58, payment x0.55 vs reference"
